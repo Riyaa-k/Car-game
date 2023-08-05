@@ -8,7 +8,7 @@ This is a simple car game built using HTML, CSS, and JavaScript. The objective o
 
 ## Demo
 
-[Link to live demo](https://your-demo-link-here.com)
+[Link to live demo]()
 
 ## How to Play
 
@@ -26,8 +26,8 @@ This is a simple car game built using HTML, CSS, and JavaScript. The objective o
 
 ## Screenshots
 
-![Screenshot 1](./screenshots/screenshot1.png)
-![Screenshot 2](./screenshots/screenshot2.png)
+![Screenshot 1](./Screenshots/car2.png)
+![Screenshot 2](./Screenshots/cargame.png)
 
 ## Technologies Used
 
@@ -42,7 +42,7 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 ## Contact
 
-For any inquiries or feedback, feel free to contact me at your-email@example.com or visit my GitHub profile: [Your GitHub Profile](https://github.com/your-username).
+For any inquiries or feedback, feel free to contact me at anshitakoshta28@gmail.com or visit my GitHub profile: [Your GitHub Profile](https://github.com/Riyaa-k).
 
 
 
