@@ -8,6 +8,7 @@ This is a simple car game built using HTML, CSS, and JavaScript. The objective o
 
 ## Demo
 
+***only for pc...
 [Link to live demo](https://riyaa-k.github.io/Car-game/)
 
 ## How to Play
